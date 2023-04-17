@@ -16,6 +16,7 @@ My stack
 ![linux](https://icon-icons.com/downloadimage.php?id=8794&root=46/ICO/128/&file=linux_penguin_animal_9362.ico)
 ![mongoDB](https://icon-icons.com/downloadimage.php?id=146425&root=2415/ICO/128/&file=mongodb_original_wordmark_logo_icon_146425.ico)
 ![docker](https://icon-icons.com/downloadimage.php?id=130643&root=2107/ICO/128/&file=file_type_docker_icon_130643.ico)
+![postgreSQL](https://icon-icons.com/downloadimage.php?id=146390&root=2415/ICO/128/&file=postgresql_plain_wordmark_logo_icon_146390.ico)
 <!--
 **Kee-Reall/Kee-Reall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
