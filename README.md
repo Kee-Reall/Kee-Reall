@@ -6,11 +6,13 @@
 My stack
 
 ![nodeJS](https://icon-icons.com/downloadimage.php?id=146411&root=2415/ICO/128/&file=nodejs_original_logo_icon_146411.ico)
-![TypeScript](https://icon-icons.com/downloadimage.php?id=146317&root=2415/ICO/128/&file=typescript_original_logo_icon_146317.ico)
 ![JavaScript](https://icon-icons.com/downloadimage.php?id=130900&root=2108/ICO/512/&file=javascript_icon_130900.ico)
+![TypeScript](https://icon-icons.com/downloadimage.php?id=146317&root=2415/ICO/128/&file=typescript_original_logo_icon_146317.ico)
+![SQL](https://icon-icons.com/downloadimage.php?id=57633&root=628/ICO/128/&file=sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.ico)
 
-![express](https://icon-icons.com/downloadimage.php?id=169186&root=2699/ICO/128/&file=expressjs_logo_icon_169186.ico)
+![express](https://icon-icons.com/downloadimage.php?id=169185&root=2699/PNG/128/&file=expressjs_logo_icon_169185.png)
 ![nestJS](https://icon-icons.com/downloadimage.php?id=168087&root=2699/ICO/128/&file=nestjs_logo_icon_168087.ico)
+![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)
 ![react](https://icon-icons.com/downloadimage.php?id=146374&root=2415/ICO/512/&file=react_original_logo_icon_146374.ico)
 
 ![linux](https://icon-icons.com/downloadimage.php?id=8794&root=46/ICO/128/&file=linux_penguin_animal_9362.ico)
