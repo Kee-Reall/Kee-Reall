@@ -1,7 +1,5 @@
 ![preview](https://capsule-render.vercel.app/api?height=180&type=waving&desc=Backend%20Developer&text=Bezrodnyi%20Kirill&animation=scalein&fontSize=70&fontAlign=30&fontAlignY=40&descSize=20&descAlignY=15&descAlign=15&color=gradient&fontColor=000)
 
-![stats](https://github-readme-stats.vercel.app/api?username=kee-reall&show_icons=true&theme=radical&hide_border=true&line_height=40)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kee-reall&layout=large&theme=radical&hide_border=true&line_height=40)
 
 [![codewars](https://www.codewars.com/users/KeeREAL/badges/large)](https://www.codewars.com/users/KeeREAL)
 
