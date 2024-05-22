@@ -13,7 +13,7 @@
 [![express](https://icon-icons.com/downloadimage.php?id=169185&root=2699/PNG/128/&file=expressjs_logo_icon_169185.png)](https://expressjs.com/)
 [![nestJS](https://icon-icons.com/downloadimage.php?id=168087&root=2699/ICO/128/&file=nestjs_logo_icon_168087.ico)](https://nestjs.com)
 [![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)](https://jestjs.io/)
-[![moleculer](https://moleculer.services/logo.svg)](https://moleculer.services/)
+<!--[![moleculer](https://moleculer.services/logo.svg)](https://moleculer.services/)-->
 
 [![linux](https://icon-icons.com/downloadimage.php?id=8794&root=46/ICO/128/&file=linux_penguin_animal_9362.ico)](https://www.linux.org/)
 [![mongoDB](https://icon-icons.com/downloadimage.php?id=146425&root=2415/ICO/128/&file=mongodb_original_wordmark_logo_icon_146425.ico)](https://www.mongodb.com/)
@@ -23,6 +23,10 @@
 ## My contacts
 [![telegram](https://icon-icons.com/downloadimage.php?id=72055&root=923/ICO/256/&file=telegram_icon-icons.com_72055.ico)](https://t.me/Cyrill72)
 [![email](https://icon-icons.com/downloadimage.php?id=102148&root=1483/ICO/256/&file=email_102148.ico)](mailto:ikirill.bezrodny@gmail.com)
+
+<style>
+  
+</style>
 <!--
 **Kee-Reall/Kee-Reall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
