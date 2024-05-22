@@ -12,8 +12,8 @@
 
 [![express](https://icon-icons.com/downloadimage.php?id=169185&root=2699/PNG/128/&file=expressjs_logo_icon_169185.png)](https://expressjs.com/)
 [![nestJS](https://icon-icons.com/downloadimage.php?id=168087&root=2699/ICO/128/&file=nestjs_logo_icon_168087.ico)](https://nestjs.com)
-[![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)](https://jestjs.io/)
-[![react](https://icon-icons.com/downloadimage.php?id=146374&root=2415/ICO/512/&file=react_original_logo_icon_146374.ico)](https://react.dev/)
+[![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)](https://jestjs.io/) https://moleculer.services/logo.svg
+[![moleculer](https://moleculer.services/logo.svg)](https://moleculer.services/)
 
 [![linux](https://icon-icons.com/downloadimage.php?id=8794&root=46/ICO/128/&file=linux_penguin_animal_9362.ico)](https://www.linux.org/)
 [![mongoDB](https://icon-icons.com/downloadimage.php?id=146425&root=2415/ICO/128/&file=mongodb_original_wordmark_logo_icon_146425.ico)](https://www.mongodb.com/)
