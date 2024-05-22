@@ -12,7 +12,7 @@
 
 [![express](https://icon-icons.com/downloadimage.php?id=169185&root=2699/PNG/128/&file=expressjs_logo_icon_169185.png)](https://expressjs.com/)
 [![nestJS](https://icon-icons.com/downloadimage.php?id=168087&root=2699/ICO/128/&file=nestjs_logo_icon_168087.ico)](https://nestjs.com)
-[![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)](https://jestjs.io/) https://moleculer.services/logo.svg
+[![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)](https://jestjs.io/)
 [![moleculer](https://moleculer.services/logo.svg)](https://moleculer.services/)
 
 [![linux](https://icon-icons.com/downloadimage.php?id=8794&root=46/ICO/128/&file=linux_penguin_animal_9362.ico)](https://www.linux.org/)
