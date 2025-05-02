@@ -21,7 +21,7 @@
 [![postgreSQL](https://icon-icons.com/downloadimage.php?id=146390&root=2415/ICO/128/&file=postgresql_plain_wordmark_logo_icon_146390.ico)](https://www.postgresql.org/)
 
 ## My contacts
-[![telegram](https://icon-icons.com/downloadimage.php?id=72055&root=923/ICO/256/&file=telegram_icon-icons.com_72055.ico)](https://t.me/Cyrill72)
+[![telegram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FTelegram&psig=AOvVaw0f_vScJhGnsApItlvbGDxp&ust=1746279559743000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCAp730hI0DFQAAAAAdAAAAABAE)](https://t.me/Cyrill72)
 [![email](https://icon-icons.com/downloadimage.php?id=102148&root=1483/ICO/256/&file=email_102148.ico)](mailto:ikirill.bezrodny@gmail.com)
 
 <style>
